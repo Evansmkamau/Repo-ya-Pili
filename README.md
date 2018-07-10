@@ -1,2 +1,2 @@
 # Repo-ya-Pili
-Kwa hii repo nataka kuweka code zenye nimefanya za python nikijifunza hiyo lugha nikiwa Volvo Swiden.
+Kwa hii repository nataka kuweka code za python ambazo nilifanya nikijifunza hiyo lugha nikiwa hapa Volvo Swiden.
